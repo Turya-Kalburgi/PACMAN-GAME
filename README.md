@@ -1,2 +1,2 @@
 # PACMAN-GAME
-pacman game by java
+pacman game in java
